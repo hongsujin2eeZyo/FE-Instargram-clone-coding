@@ -12,7 +12,7 @@ const Body = ({ imageData }) => {
                     <div 
                         key={index} 
                         className="image-item"
-                        onClick={() => navigate(`/photo/${index}`)} 
+                        onClick={() => navigate(`/photo/${image.postId}`)} 
                     >
                         <img src={image.src} alt={`Image ${index + 1}`} />
                         <p className="image-description">{image.description}</p>
