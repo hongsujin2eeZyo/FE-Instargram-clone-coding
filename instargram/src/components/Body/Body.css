@@ -1,0 +1,28 @@
+.body-container {
+    padding: 20px;
+    background-color: #f9f9f9; 
+}
+
+.image-grid {
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px; 
+    margin-top: 20px;
+    padding: 0 70px;
+}
+
+.image-item img {
+    width: 100%; 
+    aspect-ratio: 1 / 1;
+    object-fit: cover; 
+    border-radius: 8px;
+}
+.image-description{
+    font-size: 20px;
+}
+
+.image-coment{
+    color: rgb(82, 82, 82);
+    font-size: 13px;
+    font-weight: 200;
+}
