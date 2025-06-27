@@ -11,12 +11,12 @@ import image5 from './assets/5.jpeg';
 import image6 from './assets/6.jpeg';
 
 const imageData = [
-    { id:0, src: image1, description: "📸🎞️🤓", coment: "일본에서찍은" },
-    { id:1,src: image2, description: "🌀_🌀;;💦", coment: "갈머하고찍은" },
-    { id:2,src: image3, description: "._.", coment: "현지랑블루본즈" },
-    { id:3,src: image4, description: "```", coment: "현지랑블루본즈2" },
-    { id:4,src: image5, description: "w", coment: "눈사람만들고집가는길에" },
-    { id:5,src: image6, description: "⛄️", coment: "언제왜찍었더라" },
+    { id:0, src: image1, description: "📸🎞️🤓", coment: "일본에서 찍은" },
+    { id:1,src: image2, description: "🌀_🌀;;💦", coment: "갈머하고 찍은" },
+    { id:2,src: image3, description: "._.", coment: "현지랑 블루본즈" },
+    { id:3,src: image4, description: "```", coment: "현지랑 블루본즈2" },
+    { id:4,src: image5, description: "w", coment: "눈사람 만들고 집가는길에" },
+    { id:5,src: image6, description: "⛄️", coment: "언제 왜 찍었더라" },
 ];
 
 
